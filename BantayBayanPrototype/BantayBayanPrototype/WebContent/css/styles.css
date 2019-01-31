@@ -1,0 +1,43 @@
+body{
+	background-color: #f8f9fa;
+	background-image: url("bg6.png");
+	
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bbp-content-wrapper{
+	max-width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	/*
+	border: 1px solid #ced4da;
+	padding-bottom: 20px;
+	*/
+}
+
+.wrapper-ni-recent{
+	max-width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#bbp-custom-card{
+	background-color: #fff;
+}
+
+#bbp-footer{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#bbp-footer-text{
+	text-align: center;
+}
+
+#bbp-resolve-button{
+	margin-top: 6%;
+	
+}
